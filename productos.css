@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+*{
+    font-family: 'Shadows Into Light', cursive;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    text-decoration: none;
+    margin-top: -70%;
+    font-size: 40px;
+    text-decoration: none;
+}
+.header{
+    margin-top: -5px;
+    background: rgb(219, 187, 210);
+
+}
+h1{
+    margin-left: 45%;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: crimson;
+}

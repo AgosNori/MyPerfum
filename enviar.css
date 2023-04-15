@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Zen+Dots&display=swap');
+
+* {
+    background-color: #816797;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Zen Dots', cursive;
+}
+h1{
+    margin-top: 80px;
+    margin-left: 300px;
+}
+img{
+    margin-top: 30px;
+    margin-left: 40%;
+}
